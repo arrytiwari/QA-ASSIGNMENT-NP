@@ -47,6 +47,8 @@ The actual deployment issues mentioned in the assignment (like "Deployment 1 of 
 - Active projects with deployments
 - Authenticated API access
 
+ for getting to know more about that visit : [AUTHENTICATED_TESTS_README.md](./AUTHENTICATED_TESTS_README.md)
+
 **What's Included:**
 - ✅ **Working tests** for public pages (14 tests, all passing)
 - ✅ **Sample code** demonstrating how to test authenticated pages
