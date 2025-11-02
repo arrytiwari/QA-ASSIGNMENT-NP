@@ -1,3 +1,11 @@
+
+# ⚠️ Before You Read
+
+👉 **Start Here:** Please open the [QA_TEST_PLAN.md](./QA_TEST_PLAN.md) file first.  
+It contains the **complete test strategy, coverage details, and prioritized test cases** for this QA assignment.  
+After reviewing it, return here for setup instructions and execution details.
+
+
 # AutoGen QA Testing Suite
 
 Comprehensive automated testing framework for the AutoGen deployment platform.
