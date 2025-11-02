@@ -1,8 +1,5 @@
 
 # AutoGen QA Test Plan & Analysis
-**NodeOps QA Assignment**
-**Platform:** https://autogen.nodeops.network/
-**Date:** November 2, 2025
 
 ---
 
